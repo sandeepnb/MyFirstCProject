@@ -10,7 +10,6 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-// Testing new line addition for Git Learning.
 public class TestUser {
 	
 	
